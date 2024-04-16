@@ -14,30 +14,30 @@ sidebar:
   timezone: EST  # Eastern Standard Time
   citizenship: ''  # Citizenship remains blank, leave empty or remove
   website: nurullahgulec.github.io  # No need to add http://
-  linkedin: david-shin-893a049b
-  github: daviddshin
-  twitter: david_d_shin
+  linkedin: nurullahgulec
+  github: nurullahgulec
+  twitter: mnurullahgulec
   pdf: '/assets/files/cv.pdf'  # Path to the CV PDF
 
   # Research Interests
   interests:
     title: Research Interests
     info:
-      - item: International Economics
-      - item: Macroeconomics
-      - item: Environmental Economics
+      - item: Industrial Organization
+      - item: Labor
+      - item: Strategy
 
   # References
   references:
     title: References
     info:
-      - name: Rafael Dix-Carneiro
+      - name: Allan Collard-Wexler
         affiliation: Duke University
       - name: Daniel Yi Xu
         affiliation: Duke University
-      - name: Laura Castillo-Martinez
+      - name: Rafael Dix-Carneiro
         affiliation: Duke University
-      - name: Andrea Lanteri
+      - name: Ashish Arora
         affiliation: Duke University
 
 # Main content areas
@@ -47,68 +47,40 @@ education:
     - degree: Ph.D. in Economics
       university: Duke University
       time: (Expected) 2025
-    - degree: MA in Economics
-      university: Duke University
-      time: 2022
-    - degree: B.S. in Economics
-      university: University of Michigan - Ann Arbor
+    - degree: MPhil in Economics
+      university: Oxford University
+      time: 2019
+    - degree: B.A. in Economics and B.S. in Mathematics
+      university: Bogazici University
       time: 2017
 
 experiences:
   title: Experiences
   info:
-    - role: Dissertation Fellow
-      time: August 2024
-      company: Federal Reserve Bank of St. Louis
-      location: St. Louis, MO
-      details: Dissertation Research
-    - role: Ph.D. Summer Intern
-      time: June 2024 - August 2024
-      company: Federal Reserve Bank of New York
-      location: New York, NY
-      details: Dissertation Research
+
     - role: PhD Graduate Assistant
       time: August 2021 - Present
       company: Duke University
       location: Durham, NC
       details: Research Assistant to Professor Rafael Dix-Carneiro
-    - role: Fund Internship Program (FIP)
-      time: June 2023 - September 2023
-      company: International Monetary Fund (IMF)
-      location: Washington, DC
-      details: Commodities Trade Fragmentation and Market Power
-    - role: Short-Term Temporary (STT)
-      time: September 2021 - November 2021
-      company: World Bank
-      location: Durham, NC
-      details: The Impact of Trade Facilitation Policies on Consumer Prices in Brazil
     - role: PhD Teaching Assistant
       time: August 2020 - April 2021
       company: Duke University
       location: Durham, NC
       details: First-year PhD sequence in Macroeconomics
-    - role: Military Interpreter/Teaching Assistant
-      time: July 2017 - March 2019
-      company: Republic of Korea Army (ROKA)
-      location: Republic of Korea
-      details: Compulsory Military Service
-    - role: Undergraduate Research Assistant
-      time: October 2014 - April 2017
-      company: University of Michigan
-      location: Ann Arbor, MI
-      details: Research Assistant to Professor James R. Hines Jr.
+
 
 languages:
   title: Languages
   info:
     - idiom: English
       level: Fluent
-    - idiom: Korean
+    - idiom: Turkish
       level: Native
-    - idiom: Spanish
-      level: Intermediate
     - idiom: German
-      level: Intermediate
+      level: Advanced
+    - idiom: Arabic
+      level: Advanced
 
 computational-skills:
   title: Computational Skills
