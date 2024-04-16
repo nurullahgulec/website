@@ -1,0 +1,23 @@
+<section class="section working-papers-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    Working Papers
+  </h2>
+  {% for paper in site.data.data.working_papers %}
+  <div class="item">
+    <h3 class="job-title">{{ paper.title }}</h3>
+    <div class="details">
+      <a href="#" onclick="toggleAbstract('wpAbstract{{ forloop.index }}'); return false;">[Abstract]</a>
+      <p id="wpAbstract{{ forloop.index }}" style="display:none;">
+        {{ paper.summary }}
+      </p>
+      {% if paper.pdf %}
+      <a href="{{ paper.pdf }}" target="_blank">[Paper]</a>
+      {% endif %}
+    </div><!--//details-->
+  </div><!--//item-->
+  {% endfor %}
+</section><!--//section-->

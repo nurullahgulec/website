@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include about_me.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include job_market_paper.html %}
+
+{% include working_papers.html %}
+
+{% include works_in_progress.html %}
+
+{% include experiences.html %}

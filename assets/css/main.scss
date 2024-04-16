@@ -1,0 +1,34 @@
+---
+# Only the three dashes are necessary here to let Jekyll process the file through its SCSS pipeline
+---
+
+@charset "utf-8";
+
+// Variables to handle layout based on sidebar position from site configuration
+{% if site.data.data.sidebar.position == 'left' %}
+$resume-order: 2;
+$sidebar-order: 1;
+{% else %}
+$resume-order: 1;
+$sidebar-order: 2;
+{% endif %}
+
+// Import theme-specific styles and default partials
+@import "skins/{{ site.theme_skin | default: 'blue' }}"; // Replace 'blue' with your default theme color
+@import "default"; // This contains the base styles for the site
+
+// Additional styles for the sidebar's references section
+.references-section {
+    margin-top: 20px;
+}
+
+.references-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Ensure there's no default margin */
+}
+
+.references-list li {
+  margin-bottom: 10px; /* Adds vertical space between list items */
+  font-size: 14px; /* Optional: adjust the font size as needed */
+}
