@@ -94,20 +94,19 @@ about_me:
   content: "I am a PhD candidate in Economics at Duke University. I will be on the job market during the 2024-2025 academic year."
 
 job_market_paper:
-  title: "Constrained Optimal Environmental Policies in an Interdependent World"
+  title: "Embodied Value Chain Knowledge"
   summary: "Coming Soon!"
 
 working_papers:
-  - title: "Understanding Trade Imbalances"
-    summary: "This paper evaluates the drivers of trade imbalances in eight advanced and emerging economies that experienced persistent trade imbalances from 2000 to 2014. Specifically, the paper builds a dynamic general equilibrium model incorporating cross-country differences in (i) productivity growth, (ii) trade costs, (iii) financial frictions, (iv) life expectancy, (v) population growth, and (vi) economy-specific time preferences. Isolating the impact of these factors on the trade balances, I find that the time preference of the United States is a key global driver of imbalances. In addition, I find substantial variation in the factors affecting trade imbalances across countries. For example, changes in trade costs between the United States and its trading partners substantially influenced the trade imbalances of China and the United States. Meanwhile, the primary factor for the persistent trade surpluses of Korea and Germany was changes in domestic productivity relative to the rest of the world. Finally, I show that, absent the China shock, the United States would have maintained persistent trade surpluses, and China would have experienced persistent trade deficits, underscoring the importance of incorporating bilateral trade frictions to understand trade imbalances."
-    pdf: '/assets/files/TradeImbalances_Draft_April2024.pdf'  # Path to the PDF
 
 
 works_in_progress:
-  - title: "Commodities Trade Fragmentation and Market Power"
+  - title: "Employee Spinoffs and Inherited Knowledge of Value Chain"
     coauthors:
-      - name: "Chiara Maggi"
+      - name: "Fatih  Ulu"
+        url: "https://sites.google.com/view/mehmetfatihulu/"
+  - title: "Measuring the R&D Spillover through Mobility of Workers and firm to firm Network"
+    coauthors:
+      - name: "Fatih  Ulu"
         url: "https://sites.google.com/view/cmaggi/"
-      - name: "Alexandre Sollaci"
-        url: "https://sites.google.com/view/alexandresollaci/home"
-    summary: "Amid escalating tensions between the US and China, coupled with the conflict in Ukraine, concerns over the trade fragmentation of commodities intensified. This paper presents a novel framework to evaluate the potential welfare losses resulting from such fragmentation, with a focus on the unique characteristics of commodities, including their high geographical concentration, upstream nature, and limited substitutability.  Using a quantitative general equilibrium model incorporating international trade, firm heterogeneity, variable markups, inter-sectoral linkages, and unique commodity characteristics, we assess the welfare implications of hypothetical persistent disruptions in commodity trade between hypothetical US and China blocs. The model delivers five distinct welfare costs arising from commodity trade fragmentation: (i) declining foreign demand, (ii) increased imported input costs, (iii) competition-driven productivity reduction, (iv) a decline in the number of upstream suppliers, and (v) the increased market power of regional suppliers. We find that the reduction in upstream suppliers and the concurrent rise in regional market power significantly amplify the welfare costs associated with commodity trade fragmentation."
+
