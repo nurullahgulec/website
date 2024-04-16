@@ -4,16 +4,16 @@ sidebar:
   education: False  # Assuming you want education in the main content area, not the sidebar
 
   # Profile information
-  name: David D. Shin
+  name: M Nurullah Gulec
   tagline: PhD Candidate in Economics Duke University
   avatar: profile.png  # Place this image in '/assets/images/'
 
   # Sidebar links
-  email: david.d.shin [at] duke.edu
+  email: mg445 [at] duke.edu
   phone: ''  # Phone number removed, leave empty or remove
   timezone: EST  # Eastern Standard Time
   citizenship: ''  # Citizenship remains blank, leave empty or remove
-  website: daviddshin.github.io  # No need to add http://
+  website: nurullahgulec.github.io  # No need to add http://
   linkedin: david-shin-893a049b
   github: daviddshin
   twitter: david_d_shin
