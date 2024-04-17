@@ -54,21 +54,6 @@ education:
       university: Bogazici University
       time: 2017
 
-experiences:
-  title: Experiences
-  info:
-
-    - role: PhD Graduate Assistant
-      time: August 2021 - Present
-      company: Duke University
-      location: Durham, NC
-      details: Research Assistant to Professor Rafael Dix-Carneiro
-    - role: PhD Teaching Assistant
-      time: August 2020 - April 2021
-      company: Duke University
-      location: Durham, NC
-      details: First-year PhD sequence in Macroeconomics
-
 
 languages:
   title: Languages
