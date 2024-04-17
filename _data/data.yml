@@ -13,7 +13,7 @@ sidebar:
   phone: ''  # Phone number removed, leave empty or remove
   timezone: EST  # Eastern Standard Time
   citizenship: ''  # Citizenship remains blank, leave empty or remove
-  website: nurullahgulec.github.io  # No need to add http://
+ # website: nurullahgulec.github.io  # No need to add http://
   linkedin: nurullahgulec
   github: nurullahgulec
   twitter: mnurullahgulec
