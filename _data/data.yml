@@ -23,9 +23,9 @@ sidebar:
   interests:
     title: Research Interests
     info:
-      - item: Industrial Organization
-      - item: Labor
       - item: Strategy
+      - item: Entrepreneurship
+      - item: Industrial Organization
 
   # References
   references:
@@ -85,12 +85,14 @@ job_market_paper:
 
 
 works_in_progress:
-  - title: "Employee Spinoffs and Inherited Knowledge of Value Chain"
+  - title: "The Competitive Edge of Employee Spinoffs: Leveraging Inherited Value Chain Knowledge for Superior Performance"
     coauthors:
       - name: "Fatih  Ulu"
         url: "https://sites.google.com/view/mehmetfatihulu/"
   - title: "Measuring the R&D Spillover through Mobility of Workers and firm to firm Network"
     coauthors:
       - name: "Fatih  Ulu"
+        url: "https://sites.google.com/view/mehmetfatihulu/"
+      - name: "Song Ma"
         url: "https://sites.google.com/view/mehmetfatihulu/"
 
