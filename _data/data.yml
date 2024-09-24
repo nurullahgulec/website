@@ -81,6 +81,7 @@ about_me:
 job_market_paper:
   title: "Network Knowledge on the Move: How Worker Mobility Shapes Firm Connections"
   summary: " I examine the transfer of supplier and customer knowledge by employees as they transition between firms. Leveraging a unique dataset that combines employer-employee matched data with comprehensive firm-to-firm transaction records, I quantify the impact of worker transitions on a recruiting firm's ability to acquire new customers from the networks of the employee's previous employers. By exploiting variations in workers' exposure to different customer portfolios, I demonstrate that customer-specific knowledge significantly increases the likelihood of the recruiting firm forming new business connections by 15% on average. Moreover, the findings reveal that workers transferring valuable network knowledge experience substantial wage premiums, suggesting that the labor market recognizes and rewards the dissemination of such strategic information."
+  pdf: '/assets/files/jmp_latest.pdf'  # Path to the PDF
 
 
 
