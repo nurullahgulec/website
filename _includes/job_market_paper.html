@@ -13,11 +13,13 @@
       <p id="jmpAbstract" style="display:none;">
         {{ site.data.data.job_market_paper.summary }}
       </p>
-      {% if paper.pdf %}
-      <a href="{{ paper.pdf }}" target="_blank">[Paper]</a>
+      {% if site.data.data.job_market_paper.pdf %}
+      <a href="{{ site.data.data.job_market_paper.pdf }}" target="_blank">[Paper]</a>
+      {% endif %}
+      {% if site.data.data.job_market_paper.Presentation %}
+      <br>
+      <p><strong>Presentation:</strong> {{ site.data.data.job_market_paper.Presentation }}</p>
       {% endif %}
     </div><!--//details-->
   </div><!--//item-->
 </section><!--//section-->
-
-
