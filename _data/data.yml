@@ -45,7 +45,7 @@ education:
   info:
     - degree: Ph.D. in Economics
       university: Duke University
-      time: (Expected) 2025
+      time: 2025
     - degree: MPhil in Economics
       university: Oxford University
       time: 2019
@@ -75,7 +75,7 @@ computational-skills:
       level: Advanced
 
 about_me:
-  content: "I am a PhD candidate in Economics at Duke University. I will be on the job market during the 2024-2025 academic year."
+  content: ""
 
 job_market_paper:
   title: "Network Knowledge on the Move: How Worker Mobility Shapes Firm Connections"
