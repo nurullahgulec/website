@@ -74,8 +74,8 @@ computational-skills:
     - name: MATLAB
       level: Advanced
 
-about_me:
-  content: ""
+# about_me:
+#  content: ""
 
 job_market_paper:
   title: "Network Knowledge on the Move: How Worker Mobility Shapes Firm Connections"
