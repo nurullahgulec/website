@@ -9,7 +9,7 @@ sidebar:
   avatar: profil.jpg  # Place this image in '/assets/images/'
 
   # Sidebar links
-  email: mg445 [at] duke.edu
+  email: '' 
   phone: ''  # Phone number removed, leave empty or remove
   timezone: EST  # Eastern Standard Time
   citizenship: ''  # Citizenship remains blank, leave empty or remove
